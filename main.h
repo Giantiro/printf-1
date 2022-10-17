@@ -9,7 +9,7 @@
 
 
 
-
+int _printf(const char *format, ...);
 int _write_char(char);
 int print_char(va_list);
 int print_string(va_list);
